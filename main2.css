@@ -1,0 +1,23 @@
+#background{
+	background-color:black;
+}
+
+h1{
+	color:white;
+}
+
+h2{
+	color:purple;
+}
+
+div{
+	margin-top:10px;
+}
+
+a{
+	color:white;
+}
+
+#pizza{
+	float:right 20px;
+}
